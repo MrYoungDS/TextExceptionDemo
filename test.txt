@@ -1,0 +1,5 @@
+This is the file we are going to use for testing.
+It is a lovely text file with a blank line.
+
+Everything is grammatically correct.
+Can you guess how many words and characters there are?

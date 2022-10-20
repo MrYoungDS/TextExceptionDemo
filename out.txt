@@ -1,0 +1,5 @@
+/* 1 */ This is the file we are going to use for testing.
+/* 2 */ It is a lovely text file with a blank line.
+/* 3 */ 
+/* 4 */ Everything is grammatically correct.
+/* 5 */ Can you guess how many words and characters there are?
